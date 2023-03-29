@@ -17,6 +17,7 @@ mod tests {
     }
 }
 
-fn main() -> i32 {
-    add(5, 5)
+fn main(){
+    let add = add(5, 5);
+    println!("result = {}", add)
 }
