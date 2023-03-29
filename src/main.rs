@@ -18,5 +18,5 @@ mod tests {
 }
 
 fn main() -> i32 {
-    add(5, 5)
+    add(10, 10)
 }
